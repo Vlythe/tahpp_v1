@@ -1,16 +1,41 @@
-# prototahpp
+# TAHpp v1
 
-A new Flutter project.
+This Flutter project consists of a mobile Andoird application aimed to create architecture price listing in a quick and efficient way.
 
-## Getting Started
+## Table of contents
+[USAGE][3]
 
-This project is a starting point for a Flutter application.
+## Features 
 
-A few resources to get you started if this is your first Flutter project:
+- **Quick Price Entry**: Easily add prices with a user-friendly interface.
+- **Simple listings storage**: Organize and manage price listings seamlessly.
+- **Export into PDF file**: Create custom PDF files easily for each project needs.
+- **Search for listings**: Quickly find specific listings with search options based on the project's name.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[url=https://postimg.cc/5Q17qN9m][img]https://i.postimg.cc/5Q17qN9m/Screenshot-1720568967.png[/img][/url]
+
+[url=https://postimg.cc/6TXt1ryM][img]https://i.postimg.cc/6TXt1ryM/Screenshot-1720568975.png[/img][/url]
+
+[url=https://postimg.cc/ZvcfftCz][img]https://i.postimg.cc/ZvcfftCz/Screenshot-1720568991.png[/img][/url]
+
+[url=https://postimg.cc/gncdGGyR][img]https://i.postimg.cc/gncdGGyR/Screenshot-1720568994.png[/img][/url]
+
+[url=https://postimg.cc/14rsx8Fs][img]https://i.postimg.cc/14rsx8Fs/Screenshot-1720568997.png[/img][/url]
+
+[url=https://postimg.cc/qzmrRWQF][img]https://i.postimg.cc/qzmrRWQF/Screenshot-1720569024.png[/img][/url]
+
+## Usage
+1. Launch the App: Open TAHpp on your mobile device. 
+2. Create a New Listing: Navigate through the 4 page process to input the price listing information.
+3. Manage Listings: View, edit, or delete existing listings from the "VER" screen.
+4. Search: Use the search bar and filter options to find specific listings quickly based on the project's name.
+   
+## Technologies Used
+Flutter: UI toolkit for building natively compiled applications.
+Dart: Programming language optimized for building mobile apps.
+Hive: local NoSQL database for storing price listings.
+Rive: animation creation toolkit to customize mobile apps.
+SmoothPageIndicator: to easily create a page indicator widget.
+
