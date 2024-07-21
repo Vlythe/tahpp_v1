@@ -17,17 +17,12 @@ This Flutter project consists of a mobile Andoird application aimed to create ar
 
 ## Screenshots
 
-[url=https://postimg.cc/5Q17qN9m][img]https://i.postimg.cc/5Q17qN9m/Screenshot-1720568967.png[/img][/url]
-
-[url=https://postimg.cc/6TXt1ryM][img]https://i.postimg.cc/6TXt1ryM/Screenshot-1720568975.png[/img][/url]
-
-[url=https://postimg.cc/ZvcfftCz][img]https://i.postimg.cc/ZvcfftCz/Screenshot-1720568991.png[/img][/url]
-
-[url=https://postimg.cc/gncdGGyR][img]https://i.postimg.cc/gncdGGyR/Screenshot-1720568994.png[/img][/url]
-
-[url=https://postimg.cc/14rsx8Fs][img]https://i.postimg.cc/14rsx8Fs/Screenshot-1720568997.png[/img][/url]
-
-[url=https://postimg.cc/qzmrRWQF][img]https://i.postimg.cc/qzmrRWQF/Screenshot-1720569024.png[/img][/url]
+https://postimg.cc/5Q17qN9m
+https://postimg.cc/6TXt1ryM
+https://postimg.cc/ZvcfftCz
+https://postimg.cc/gncdGGyR
+https://postimg.cc/14rsx8Fs
+https://postimg.cc/qzmrRWQF
 
 ## Usage
 1. Launch the App: Open TAHpp on your mobile device. 
