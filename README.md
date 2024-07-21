@@ -3,7 +3,10 @@
 This Flutter project consists of a mobile Andoird application aimed to create architecture price listing in a quick and efficient way.
 
 ## Table of contents
-[USAGE][3]
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
 
 ## Features 
 
@@ -33,9 +36,9 @@ This Flutter project consists of a mobile Andoird application aimed to create ar
 4. Search: Use the search bar and filter options to find specific listings quickly based on the project's name.
    
 ## Technologies Used
-Flutter: UI toolkit for building natively compiled applications.
-Dart: Programming language optimized for building mobile apps.
-Hive: local NoSQL database for storing price listings.
-Rive: animation creation toolkit to customize mobile apps.
-SmoothPageIndicator: to easily create a page indicator widget.
+- **Flutter**: UI toolkit for building natively compiled applications.
+- **Dart**: Programming language optimized for building mobile apps.
+- **Hive**: local NoSQL database for storing price listings.
+- **Rive**: animation creation toolkit to customize mobile apps.
+- **SmoothPageIndicator**: to easily create a page indicator widget.
 
